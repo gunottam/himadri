@@ -94,7 +94,7 @@ const memories: Memory[] = [
       "So good phases come to an end and you never realised the transition.",
     insideJoke:
       "JORU KE GULAM — IYKYK",
-    imagePath: "/photo8.jpg",
+    imagePath: "/photo8.JPG",
     backgroundColor: "#DDA0DD",
   },
   {
@@ -116,7 +116,7 @@ const memories: Memory[] = [
       "Nice Burger though",
     insideJoke:
       "Halka halka fuck boi toh hu mai, bas gutsy hi kam reh gya :) (anyways found Ananya now)",
-    imagePath: "/photo10.jpg",
+    imagePath: "/photo10.JPG",
     backgroundColor: "#A29BFE",
   },
   {
@@ -127,7 +127,7 @@ const memories: Memory[] = [
       "Our first road trip together where the playlist was fire, but dyamm we went for a trip together only once. We should try some more.",
     insideJoke:
       "This day proved among us who is a true NCC cadet (and why is Ananya so happy with me). STAMINAAAAA!!!!",
-    imagePath: "/photo11.jpg",
+    imagePath: "/photo11.JPG",
     backgroundColor: "#FD79A8",
   },
   {
@@ -138,7 +138,7 @@ const memories: Memory[] = [
       "Give the photographer a raise",
     insideJoke:
       "You look like a fucking chopstick. You're much better now, you know what I mean ;)",
-    imagePath: "/photo12.jpg",
+    imagePath: "/photo12.JPG",
     backgroundColor: "#00CEC9",
   },
   {
@@ -149,7 +149,7 @@ const memories: Memory[] = [
       "The phase where we stopped being chaotic long enough to actually be there for each other through real stuff. The 2 AM calls. The honest advice. The 'I'll literally fight anyone who hurts you' energy. This is why you're not just a friend, you're my SISTER.",
     insideJoke:
       "💝 That one time I called you crying over something stupid and you were like 'fuck heerrrrrrr'. (Dyaam I mean yeah I used to but now she's gone)",
-    imagePath: "/photo13.jpg",
+    imagePath: "/photo13.JPG",
     backgroundColor: "#E17055",
   },
   {
@@ -160,7 +160,7 @@ const memories: Memory[] = [
       "DYAM THAT FOREHEAD",
     insideJoke:
       "DYAMMMM LITERALLY THAT FOREHEAD. You fr improved...",
-    imagePath: "/photo14.jpg",
+    imagePath: "/photo14.JPG",
     backgroundColor: "#FDCB6E",
   },
   {
@@ -171,7 +171,7 @@ const memories: Memory[] = [
       "I mean this place my gooooddddddd. This is now closed but bro, best fucking trip at the best fucking time. Never experienced this much adrenaline and surprises in a single day.",
     insideJoke:
       "I was just hoping that you and Arushi wouldn't come up, like you guys can't even imagine what both of us were doing.",
-    imagePath: "/photo15.jpg",
+    imagePath: "/photo15.JPG",
     backgroundColor: "#6C5CE7",
   },
   {
@@ -182,7 +182,7 @@ const memories: Memory[] = [
       "I always like to pull girls by their pony.",
     insideJoke:
       "I mean yeah I can pull harder :WINK:.",
-    imagePath: "/photo16.jpg",
+    imagePath: "/photo16.JPG",
     backgroundColor: "#9B5DE5",
   },
 ];
